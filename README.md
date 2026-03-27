@@ -23,7 +23,7 @@ Hi, <br>I'm Mehrab Jalil Abir, Full-Stack Developer specializing in MERN, Next.j
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mehrab-abir&theme=blueberry)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat) -->
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0858A6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrababir/)
