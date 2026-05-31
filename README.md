@@ -19,7 +19,7 @@ Hi, <br>I'm Mehrab Jalil Abir, Full-Stack Developer specializing in MERN and PER
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrab-abir&layout=compact&theme=blueberry)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehrab-abir&theme=blueberry)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=mehrab-abir&theme=blueberry)](https://git.io/streak-stats) -->
 
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat) -->
